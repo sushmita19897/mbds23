@@ -1,2 +1,2 @@
 # mbds23
-dmbs scrapping
+imbd reviews acuuracy check
